@@ -2,7 +2,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 class nvidia_model(nn.Module):
-    in_planes = [3, 24, 36, 48, 64, 64, 1152, 100, 50, 10, 1]
+    in_planes = [3, 24, 36, 48, 64, 64, 1152, 100, 50, 10, 2]
     kernel_size = [5, 5, 5, 3, 3]
     dropout_p = [0.45, 0.4, 0.4]
     def __init__(self):

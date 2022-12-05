@@ -29,9 +29,12 @@ def telemetry(sio, data):
     speed = float(data['speed'])
     image = np.asarray(Image.open(BytesIO(base64.b64decode(data['image']))))
     image = img_train(image)
+    print(type(net(image)))
+    print(net(image).shape)
     steering_angle = net(image)[0][0]
     throttle = 1.0 - speed/speed_limit
     # throttle = 1.0
+    print(steering_angle.__str__())
     print('{} {} {}'.format(steering_angle, throttle, speed))
     send_control(steering_angle, throttle)
 
