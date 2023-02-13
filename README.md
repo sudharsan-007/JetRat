@@ -27,7 +27,7 @@ Training of the model can be done using this directory. Training code has been t
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gaRUw0A2xp0" target="_blank">
- <img src="http://img.youtube.com/vi/gaRUw0A2xp0/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/gaRUw0A2xp0/default.jpg" alt="Watch the video" width="80%" border="10" />
 </a>
 
 ### Reference codes used from sources below. 
