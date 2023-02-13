@@ -23,7 +23,7 @@ Training of the model can be done using this directory. Training code has been t
 
 ### Short Video of Jetrat (enjoy). 
 
-[![Watch the video](https://youtu.be/gaRUw0A2xp0/default.jpg)](https://youtu.be/gaRUw0A2xp0)
+<!-- [![Watch the video](https://youtu.be/gaRUw0A2xp0/default.jpg)](https://youtu.be/gaRUw0A2xp0) -->
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gaRUw0A2xp0" target="_blank">
