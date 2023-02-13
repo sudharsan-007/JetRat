@@ -26,8 +26,6 @@ Training of the model can be done using this directory. Training code has been t
 
 https://user-images.githubusercontent.com/55453134/218347405-dee79ea0-1b13-40db-bf95-1e4a540c3db0.mov
 
-<br/>
-
 #### [Watch-full-video-on-youtube](https://youtu.be/gaRUw0A2xp0)
 
 
