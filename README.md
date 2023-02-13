@@ -8,7 +8,7 @@ By [Sudharsan Ananth](https://sudharsanananth.wixsite.com/sudharsan)
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#dependencies">Dependencies</a></li>
     <li><a href="#hardware-requirements">Hardware Requirement</a></li>
-    <li><a href="#run-the-game">How to run</a></li>
+    <li><a href="#run-the-code">How to run</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
