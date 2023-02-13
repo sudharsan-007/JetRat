@@ -23,12 +23,12 @@ Training of the model can be done using this directory. Training code has been t
 
 ### Short Video of Jetrat (enjoy). 
 
-<!-- [![Watch the video](https://youtu.be/gaRUw0A2xp0/default.jpg)](https://youtu.be/gaRUw0A2xp0) -->
 
+https://user-images.githubusercontent.com/55453134/218347405-dee79ea0-1b13-40db-bf95-1e4a540c3db0.mov
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gaRUw0A2xp0" target="_blank">
- <img src="http://img.youtube.com/vi/gaRUw0A2xp0/default.jpg" alt="Watch the video" width="80%" border="10" />
-</a>
+<br/>
+[Watch the full video on youtube](https://youtu.be/gaRUw0A2xp0)
+
 
 ### Reference codes used from sources below. 
 
