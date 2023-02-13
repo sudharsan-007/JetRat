@@ -44,7 +44,7 @@ This project is built with the below given major frameworks and libraries. The c
 * [pandas](https://pandas.pydata.org) 
 * [openCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) 
 
-## Hardware Requirement 
+## Hardware Requirements 
 
 1. [Waveshare-Jetracer-Pro-kit](https://www.waveshare.com/product/jetracer-pro-ai-kit.htm), also refer [Jetracer](https://github.com/NVIDIA-AI-IOT/jetracer) github
 2. Generic Game controller 
