@@ -18,7 +18,7 @@ By [Sudharsan Ananth](https://sudharsanananth.wixsite.com/sudharsan)
 
 This is a repositorie containing the code for Jetrat which is a self-driving car, based on [Nvidia's model architecture](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf). This code and the architecture has been updated and improved overtime to be efficient on low powered machines like Jetson. This code has been tested on Jetson Nano 4gb model. Hardware requirement for this is as same the JetRacer. The controller module has been updated to suppert more modern controllers such as xBox, PS3, PS4 etc. List of all the controllers can be found `Controller.py` and `Gamepad.py`. Simply change the controller type inside this file to support your controller. This project is made possible by the open source support and codes below. Huge thanks to all the contributers. 
 
-Training of the model can be done using this directory. Training code has been tested in Mac and Windows PC. 
+Training of the model can be done using this [JetRat Training code](https://github.com/sudharsan-007/JetRat-Training). Training code has been tested in Mac and Windows PC. 
 
 
 ### Short Video of Jetrat (enjoy). 
