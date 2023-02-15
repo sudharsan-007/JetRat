@@ -58,7 +58,7 @@ Simply clone the repo cd into the right directory and run 'main.py' using the be
 
 1. Clone the repository using 
    ```sh
-   git clone https://github.com/sudharsan-007/jetrat.git
+   git clone https://github.com/sudharsan-007/JetRat.git
    ```
 
 2. cd into the directory RL-DQN-Snake-Game
