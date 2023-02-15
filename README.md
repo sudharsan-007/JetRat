@@ -63,7 +63,7 @@ Simply clone the repo cd into the right directory and run 'main.py' using the be
 
 2. cd into the directory RL-DQN-Snake-Game
    ```sh
-   cd jetrat
+   cd JetRat
    ```
 
 3. Install requirements/packages (skip and try the next step)
